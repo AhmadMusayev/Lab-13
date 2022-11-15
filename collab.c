@@ -16,6 +16,11 @@
 // UIC CS 211, Fall 2022
 #include <stdio.h>
 
+void amusay2_asilv5 (){ 
+  printf("Ahmad Musayev and Adrian Silva\n"); 
+  printf("We learned plenty useful commands for git and how to use GitHub to collaborate on projects. Personally for Ahmad the one of main struggles was installing the git on       Windows.\n"); 
+  }
+
 void reed_ekidan2() {
   printf("Dale Reed and Ellen Kidane\n");
   printf("We learned that git and GitHub are amazing, powerful tools!\n");
